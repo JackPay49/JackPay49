@@ -3,6 +3,6 @@ The programming languages I am familiar with are VB, Java and Pythong. I also ha
 I have used both Windows and Linux operating systems in the past. I have extensively used GitLab, Java Tkinter, Jupyter and LaTeX.
 I am currently developing my skills in Jupyter, Java, C and web development.
 
-I am very interested in the maths side of computer science and Machine Learning
+I am very interested in the maths side of computer science, coding and Machine Learning
 
-I can be best contacted by email using Jack@craigpay.com or jack.pay@student.manchester.ac.uk
+My hobbies relate to keeping fit and healthy by going to the gym and doing yoga, reading fantasy books and cooking.
