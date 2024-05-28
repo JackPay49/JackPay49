@@ -11,4 +11,5 @@ In my free time I enjoy writing short stories, reading novels (from Joe Abercrom
 
 # Contact Details
 - **LinkedIn**: [https://www.linkedin.com/in/jackpay49/](https://www.linkedin.com/in/jackpay49/)
+- **CV**: [https://github.com/JackPay49/JackPay49/blob/main/CV/CV.pdf)
 - **Email**: jack@craigpay.com
