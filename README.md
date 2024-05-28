@@ -1,3 +1,5 @@
+_Please note that some repositories may currently be private in compliance with the University of Manchester's policies. These will become public by August 2024._
+
 # Personal Summary
 I am an enthusiastic, driven and creative self-starter. I pride myself on my organisation, communication and public-speaking skills. I am primarily interested in Machine Learning and Computer vision, and would love to follow a career in this area whilst providing a positive contribution to society.
 
